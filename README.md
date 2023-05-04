@@ -2,8 +2,8 @@
 A webpage for Horiseon describing the company and what they do.
 
 ## Visuals
-![](https://github.com/lucschwalm/module1challenge/assets/images/site_image.jpg?raw=true)
-![](https://github.com/lucschwalm/module1challenge/assets/images/site_image2.jpg?raw=true)
+![Alt text](https://github.com/lucschwalm/module1challenge/tree/main/assets/images/Site_image.PNG?raw=true)
+![Alt text](https://github.com/lucschwalm/module1challenge/tree/main/assets/images/Site_image2.PNG?raw=true)
 
 ## Link
 https://lucschwalm.github.io/module1challenge/
